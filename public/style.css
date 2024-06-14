@@ -1,0 +1,20 @@
+.cursor-pointer {
+    cursor: pointer;
+}
+body {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-color: rgb(203, 115, 187);
+}
+.btn-primary {
+background-color: rgb(102, 35, 91);
+border: 0cap;
+}
+.progress{
+width: 300px;
+border-radius: .25rem;
+width: 500px;
+height: 40px;
+}
+.progress-bar{
+background-color: rgb(63, 35, 68);
+}
